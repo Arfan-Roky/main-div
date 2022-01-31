@@ -1,0 +1,14 @@
+/* Base code */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global Css */
+.center__div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+}
