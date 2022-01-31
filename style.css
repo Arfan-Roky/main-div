@@ -35,10 +35,14 @@ body{
 }
 
 /* Custom Css */
-.first--box{
+.container{
+    padding: .4rem;
+}
+
+.first-box{
     background-color: blanchedalmond;
 }
 
-.second--box{
+.second-box{
     background-color: burlywood;
 }
