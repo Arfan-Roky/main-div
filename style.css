@@ -9,7 +9,7 @@
 .center__div{
     max-width: 90%;
     margin: 1rem auto;
-    height: 40vh;
+    height: 50vh;
     text-align: center;
     display: flex;
     justify-content: center;
@@ -27,6 +27,10 @@
 }
 
 /* Custom Css */
-.div--box{
+.first--box{
     background-color: blanchedalmond;
+}
+
+.second--box{
+    background-color: burlywood;
 }
