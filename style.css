@@ -7,10 +7,14 @@
 
 /* Global Css */
 .center__div{
-    width: 100%;
-    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     border: 2px solid black;
+}
+
+.div--box{
+    max-width: 90%;
+    margin: 0 auto;
+    height: 100vh;
 }
