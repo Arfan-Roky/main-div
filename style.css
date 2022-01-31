@@ -7,6 +7,10 @@
 
 /* Global Css */
 .center__div{
+    max-width: 90%;
+    margin: 1rem auto;
+    height: 90vh;
+    text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,7 +19,5 @@
 
 /* Custom Css */
 .div--box{
-    max-width: 90%;
-    margin: 1rem auto;
-    height: 90vh;
+    background-color: blanchedalmond;
 }
