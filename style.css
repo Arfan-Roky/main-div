@@ -9,12 +9,21 @@
 .center__div{
     max-width: 90%;
     margin: 1rem auto;
-    height: 90vh;
+    height: 40vh;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
     border: 2px solid black;
+}
+
+.btn{
+    text-decoration: none;
+    padding: .4rem .6rem;
+    color: black;
+    border: 1px solid black;
+    display: inline-block;
+    margin: .6rem 0;
 }
 
 /* Custom Css */
