@@ -16,6 +16,6 @@
 /* Custom Css */
 .div--box{
     max-width: 90%;
-    margin: 0 auto;
-    height: 100vh;
+    margin: 1rem auto;
+    height: 90vh;
 }
